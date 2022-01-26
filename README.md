@@ -1,7 +1,7 @@
 # cpnt260-a1
 ## Maryam Khan
 
-## About us
+## About Us Page 
 
 * [Github Repo](https://github.com/maryambkhan/cpnt260-a1)
 * [GitHub pages](https://maryambkhan.github.io/cpnt260-a1/)
